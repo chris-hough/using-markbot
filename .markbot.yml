@@ -8,4 +8,4 @@ commits: 2
 html:
   - path: "index.html"
     search:
-      - "Hello World!"
+      - Hello World!
